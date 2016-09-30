@@ -6,6 +6,7 @@ docker build -t tsunokawa/ipmitool .
 ```
 
 ## RUN
+```
 docker run -it --rm tsunokawa/ipmitool /bin/bash
 ```
 
